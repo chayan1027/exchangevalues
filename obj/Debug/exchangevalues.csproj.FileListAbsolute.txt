@@ -1,0 +1,7 @@
+C:\Users\nEW u\Desktop\New folder\exchangevalues\bin\Debug\exchangevalues.exe.config
+C:\Users\nEW u\Desktop\New folder\exchangevalues\bin\Debug\exchangevalues.exe
+C:\Users\nEW u\Desktop\New folder\exchangevalues\bin\Debug\exchangevalues.pdb
+C:\Users\nEW u\Desktop\New folder\exchangevalues\obj\Debug\exchangevalues.csprojAssemblyReference.cache
+C:\Users\nEW u\Desktop\New folder\exchangevalues\obj\Debug\exchangevalues.csproj.CoreCompileInputs.cache
+C:\Users\nEW u\Desktop\New folder\exchangevalues\obj\Debug\exchangevalues.exe
+C:\Users\nEW u\Desktop\New folder\exchangevalues\obj\Debug\exchangevalues.pdb
